@@ -1,23 +1,23 @@
 export const myProjects = [
   {
     id: 1,
-    title: "E-commerce Platform",
+    title: "AI Powered Freelance Platform",
     description:
-      "Facilitates purchases from international websites like Amazon and eBay, allowing customers to shop from these sites and have products delivered domestically.",
+      "A modern freelance platform powered by Artificial Intelligence.",
     subDescription: [
-      "Built a scalable application with ASP.NET Core MVC, integrating global platforms like Amazon for domestic delivery.",
-      "Implemented secure authentication and database management using ASP.NET Core Identity and Entity Framework Core.",
-      "Designed a responsive frontend with Tailwind CSS, enhancing user experience.",
-      "Added payment systems, localization, and product filtering for functionality improvements.",
+      "Integrated AI features to match freelancers with the best projects automatically.",
+      "Built a highly responsive and interactive user interface.",
+      "Implemented secure authentication and real-time chat functionality.",
+      "Designed a sleek frontend for optimal user experience.",
     ],
-    href: "",
+    href: "https://ai-powered-freelance-platform.vercel.app/",
     logo: "",
-    image: "/assets/projects/accessories.jpg",
+    image: "/assets/projects/linkify.png.png",
     tags: [
       {
         id: 1,
-        name: "C#",
-        path: "/assets/logos/csharp.svg",
+        name: "React",
+        path: "/assets/logos/react.svg",
       },
       {
         id: 2,
@@ -38,18 +38,18 @@ export const myProjects = [
   },
   {
     id: 2,
-    title: "Authentication & Authorization System",
+    title: "Personal Site & Portfolio",
     description:
-      "A secure authentication and authorization system using Auth0 for seamless user management.",
+      "A personal website to showcase projects, skills, and experiences.",
     subDescription: [
-      "Integrated Auth0 for authentication, supporting OAuth, JWT, and multi-factor authentication.",
-      "Implemented role-based access control (RBAC) for fine-grained user permissions.",
-      "Developed a React-based frontend with Tailwind CSS for a sleek user experience.",
-      "Connected to a secure SQLite database for user data storage.",
+      "Developed a modern frontend to display various portfolio projects.",
+      "Optimized performance for fast loading speeds and smooth interactions.",
+      "Implemented responsive design ensuring it looks great on all devices.",
+      "Integrated a working contact form for easy communication.",
     ],
-    href: "",
+    href: "https://ans-1-1site.netlify.app",
     logo: "",
-    image: "/assets/projects/auth-system.jpg",
+    image: "/assets/projects/Potflio.png",
     tags: [
       {
         id: 1,
